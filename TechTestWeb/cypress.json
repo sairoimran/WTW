@@ -1,0 +1,15 @@
+{
+  "testFiles": "**/*.feature",
+  "baseUrl": "http://www.willistowerswatson.com",
+  "env":{
+   "RECORD_KEY":"LONG KEY VALUE NEEDS TO BE ENTER HERE"
+  },
+  "defaultCommandTimeout": 30000,
+  "requestTimeout": 30000,
+  "pageLoadTimeout": 40000,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1200,
+  "viewportHeight": 800,
+  "experimentalSourceRewriting": true,
+  "projectId": "Projectid"
+}
